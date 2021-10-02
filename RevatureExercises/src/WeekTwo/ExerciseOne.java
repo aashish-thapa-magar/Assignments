@@ -18,7 +18,7 @@ public class ExerciseOne {
 		
 		char[] alph = getAlphabetArray();
 		
-	    for (int index = 0; index < alph.length; index++) {
+	   	for (int index = 0; index < alph.length; index++) {
 			System.out.println(alph[index]);
 		}
 	}
